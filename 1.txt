@@ -1,3 +1,7 @@
 \hbvurlivqmc;o
+<<<<<<< HEAD
 my name
+=======
+\uhteihvjwo
+>>>>>>> 12ef03a2422d4f8d87cf8976fa59c1328572bea0
 hi this is a samle file
