@@ -2,3 +2,5 @@
 <<<<<<< HEAD
 my name
 =======hi this is a samle file
+
+new branch
